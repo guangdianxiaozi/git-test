@@ -1,0 +1,15 @@
+Index: javaTest/demo01.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>demo\r\n  deom03\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/javaTest/demo01.java b/javaTest/demo01.java
+--- a/javaTest/demo01.java	(revision 48269b05d9138b578133f9df06ed1fe387f533e1)
++++ b/javaTest/demo01.java	(date 1792811704673)
+@@ -1,2 +1,4 @@
+ demo
++
++test01S
+   deom03
